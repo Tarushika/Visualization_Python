@@ -45,10 +45,9 @@ Interactive Exports: If using interactive plots, provide the ability to save the
 
 Conclusion:-
 Impact: This project equips users with powerful tools to visualize complex datasets, facilitating better decision-making and communication of insights.
-Future Enhancements:
+
+Future Enhancements:-
 Integration with Machine Learning: Potential to integrate predictive analytics using machine learning models to forecast trends.
 Expanded Dataset Options: Include a variety of datasets from different domains to broaden the scope of visualizations.
-Documentation and User Guide
-Setup Instructions: Provide a step-by-step guide on how to install necessary libraries and run the project.
-Example Datasets: Include sample datasets to demonstrate functionality.
-Usage Examples: Offer code snippets showing how to generate specific visualizations.
+
+
