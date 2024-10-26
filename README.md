@@ -50,4 +50,33 @@ Future Enhancements:-
 Integration with Machine Learning: Potential to integrate predictive analytics using machine learning models to forecast trends.
 Expanded Dataset Options: Include a variety of datasets from different domains to broaden the scope of visualizations.
 
+![1](https://github.com/user-attachments/assets/58c613e9-7e15-4980-9742-b08c8292de2e)
+![2](https://github.com/user-attachments/assets/9d963c3d-b142-454d-bda2-63d4f8d361a9)
+![3](https://github.com/user-attachments/assets/c4f407fb-3c06-4fac-9df0-f68a3b85e789)
+![4](https://github.com/user-attachments/assets/561f11e2-ffee-4c82-9aa1-aa552e543056)
+![5](https://github.com/user-attachments/assets/62ce6db0-2098-4022-bb52-dc7a89ebf880)
+![6](https://github.com/user-attachments/assets/e6e59c4a-9269-435d-a0b9-c7cd6785132b)
+![7](https://github.com/user-attachments/assets/b2e0a169-3ddb-4214-944a-a0d445b95a25)
+![8](https://github.com/user-attachments/assets/ff40b561-51f6-4236-8e5a-1b21f3cad99a)
+![9](https://github.com/user-attachments/assets/fa8bbbc7-3735-4865-9a67-43c8be583606)
+![10](https://github.com/user-attachments/assets/237401e2-7c18-4c4b-b44f-75478faf572c)
+![11](https://github.com/user-attachments/assets/47fc96a9-b825-4987-ba64-9e6e456567c0)
+![12](https://github.com/user-attachments/assets/b873a655-30fc-4e48-8a1d-a897e1cc5138)
+![13](https://github.com/user-attachments/assets/9c2001c9-5db5-4e52-b541-8bdf968528ee)
+![14](https://github.com/user-attachments/assets/42033b5b-8eaf-4897-8581-fa8cb7637a7d)
+![15](https://github.com/user-attachments/assets/9b92a7a5-1a8e-486a-9571-d164ff63f66f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
